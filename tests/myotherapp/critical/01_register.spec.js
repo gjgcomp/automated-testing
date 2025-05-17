@@ -1,5 +1,5 @@
-import { test, expect } from '../utils/baseTest';
-import { selectRandomOption } from '../utils/helpers';
+import { test, expect } from '../../../utils/baseTest';
+import { selectRandomOption } from '../../../utils/helpers';
 import Chance from 'chance';
 import { promises as fs } from 'fs';
 
